@@ -1,3 +1,5 @@
+![header](https://github.com/Mozilla-Campus-Club-IIT/Syllabus-Coverage-Application/blob/master/Sources/HacktoberfestLogo.jpg)
+
 # Syllabus Coverage App
 
 
